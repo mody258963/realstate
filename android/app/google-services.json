@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "84294909906",
+    "project_id": "realshare-d1c01",
+    "storage_bucket": "realshare-d1c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84294909906:android:ff8dfa03f49d2a6eae120b",
+        "android_client_info": {
+          "package_name": "com.example.realstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84294909906-t7t7kl8i6f6kiko1b9eeuq2pa0qr19jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realstate",
+            "certificate_hash": "bb8c5e2e2e3aeec76aa1ac6712f11974a3499cc6"
+          }
+        },
+        {
+          "client_id": "84294909906-3pnnl4qk3p8nli0agagaslc18etk8tca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0X9rsHbghYDwKmjZr8pGKdGHmrxJ8PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84294909906-3pnnl4qk3p8nli0agagaslc18etk8tca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
